@@ -1,0 +1,13 @@
+# System and Office temporary files
+Thumbs.db
+Desktop.ini
+~$*.xlsx
+
+# Python and notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Local environment files
+.env
+.env.*
