@@ -30,7 +30,7 @@ The project deliverables document these steps:
 - In this sample, churned customers have lower mean tenure (7.0 months) and more mean support tickets (4.29) than non-churned customers (29.1 months and 1.00 ticket).
 - All month-to-month customers in the sample are marked as churned; all one- and two-year customers are marked as not churned.
 
-## Limitations
+## Limitations 
 
 This is a 15-record dataset. All findings are descriptive only and must not be interpreted as causal or generalized to a larger customer population. The contract/churn pattern is perfectly separated in this sample and may reflect synthetic-data construction. The charge calculation check supports internal consistency only; it does not prove billing accuracy.
 
