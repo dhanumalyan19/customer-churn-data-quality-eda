@@ -38,9 +38,9 @@ This is a 15-record dataset. All findings are descriptive only and must not be i
 
 | Path | Description |
 | --- | --- |
-| `data/customer_churn_cleaned.csv` | Cleaned CSV dataset used for the analysis. |
-| `analysis/customer_churn_analysis.xlsx` | Workbook with cleaned data, data profile, numeric summary, IQR checks, churn/category summaries, group means, and cleaning log. |
-| `reports/data_quality_report.md` | Detailed data-quality decisions, validation checks, summary statistics, findings, and limitations. |
+| `customer_churn_cleaned.csv` | Cleaned CSV dataset used for the analysis. |
+| `customer_churn_analysis.xlsx` | Workbook with cleaned data, data profile, numeric summary, IQR checks, churn/category summaries, group means, and cleaning log. |
+| `data_quality_report.md` | Detailed data-quality decisions, validation checks, summary statistics, findings, and limitations. |
 
 ## Reproducibility
 
